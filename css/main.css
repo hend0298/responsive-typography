@@ -47,3 +47,7 @@ blockquote {
 .quote {
   color: #999;
 }
+
+body {
+  font-family: "Crimson Text", serif;
+}
